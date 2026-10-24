@@ -2,7 +2,8 @@
 
 An Excel-based data analytics project that explores student leads, enrollment trends, counsellor performance, and lead source conversion rates. The goal is to understand where leads drop off and identify opportunities to improve admissions.
 
-![Uploading a6469d05-5fe3-4983-b78f-0c60da37d138.png…]()
+<img width="1774" height="887" alt="a6469d05-5fe3-4983-b78f-0c60da37d138" src="https://github.com/user-attachments/assets/f377e30f-e7fc-4c93-a9f4-08e7b2caf0b5" />
+
 
 
 ## Project Overview
